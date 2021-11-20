@@ -1,6 +1,6 @@
 # Calculadora do windows 10 em HTML
 
-[![Hcode Treinamentos](https://img-c.udemycdn.com/user/200_H/23560956_c3bb_5.jpg)](https://www.hcode.com.br)
+[![Hcode Treinamentos](https://storage.googleapis.com/hcode.com.br/assets/logo-navbar-hcode.svg)](https://www.hcode.com.br)
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
 
